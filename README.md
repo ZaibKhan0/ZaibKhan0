@@ -49,7 +49,7 @@ A front-end web developer with a vision to transmute ideas into captivating digi
 
 # Stats
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaibLComrade&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaibKhan0&theme=github_dark"/>
 </p>
 
 <p align="center">
